@@ -7,4 +7,4 @@ Challenge 1 : Your age in Days
 Challenge 2: Cat Image generator.
 
 # Java Script 30 days challenge
-1. Day One - JavaScript Drum Challenge
+
