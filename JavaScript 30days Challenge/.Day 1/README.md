@@ -1,2 +1,2 @@
-Java Script Day 1 Challenge:
+#Java Script Day 1 Challenge:
 Drum Kit Challenge
