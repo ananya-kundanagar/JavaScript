@@ -1,3 +1,2 @@
-# Java-Script
-Programs for practise
+Practise programs 
 
